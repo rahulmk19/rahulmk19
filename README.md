@@ -1,5 +1,4 @@
 - 👋 Hi, I am Rahul Kumar Thakur
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Full Stack Web Developer
 - 📫 How to reach me linkedin.com/in/rahulmk19
 
