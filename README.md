@@ -1,5 +1,5 @@
 - 👋 Hi, I am Rahul Kumar Thakur
-- 🌱 I’m currently learning Full Stack Web Developer
+- 🌱 I’m currently learning Java Backend Developer
 - 📫 How to reach me linkedin.com/in/rahulmk19
 
 <!---
