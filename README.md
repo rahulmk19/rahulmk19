@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Thakur</h1>
-<h3 align="center">A passionate Backend Java Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
+<h2 align="center">A passionate software developer from India💻.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulmk19&label=Profile%20views&color=0e75b6&style=flat" alt="rahulmk19" /> </p>
-
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Java, JavaScript , DSA**
+# 💫 About Me:
+<img
+  align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg"
+  style="float: right; width: 400px; height:250px; margin-left: 20px; margin-bottom: 20px; border: 2px solid #333; border-radius: 10px;"
+/>
 
 - 📫 How to reach me **rahulmk.94802@gmail.com**
 
@@ -14,36 +13,42 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/ol4f38et3v](https://flowcv.com/resume/ol4f38et3v)
 
-<h3 align="left">Connect with me:</h3>
+I am a backend developer with a strong passion for coding and problem-solving. I love exploring new technologies and building web applications that make a positive impact.
+
+
+## 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/rahulmk19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulmk19/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rahulmk19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rahulmk19" height="30" width="40" /></a>
-</p>
+</p> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmk19&show_icons=true&locale=en&layout=compact" alt="rahulmk19" /></p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%23B066FE.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%23000.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulmk19&show_icons=true&locale=en" alt="rahulmk19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmk19&" alt="rahulmk19" /></p> -->
+# 💻 Projects:
+- You can find my projects <a href="https://rahulmk19.github.io/" target="_blank">here</a>
 
-<div id="githubstats">
-        <div>
-          <img id="github-stats-card"
-            src="https://github-readme-stats.vercel.app/api?username=rahulmk19&show_icons=true&theme=merko"
-            alt="top_languages" />
-        </div>
-        <div>
-          <img id="github-streak-stats"
-            src="https://github-readme-streak-stats.herokuapp.com?user=rahulmk19&theme=merko" alt="">
-        </div>
-      </div>
-      <div>
-        <div>
-          <img id="github-top-langs"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmk19&layout=compact&theme=merko"
-            alt="top_languages" />
-        </div>
-      </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rahulmk19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rahulmk19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmk19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rahulmk19&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
