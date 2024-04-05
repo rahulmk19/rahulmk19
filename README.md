@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/ol4f38et3v](https://flowcv.com/resume/ol4f38et3v)
 
-I am a backend developer with a strong passion for coding and problem-solving. I love exploring new technologies and building web applications that make a positive impact.
+Experienced Java Backend Developer with expertise in Java, Spring Boot, and RESTful APIs. Successfully delivered collaborative projects while demonstrating strong problem-solving skills. A valuable team player with excellent communication skills. Ready to contribute impactful solutions to backend development. I love exploring new technologies and building web applications that make a positive impact.
 
 
 ## 🌐 Socials:
