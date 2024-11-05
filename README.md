@@ -15,6 +15,20 @@
 
 Experienced Java Backend Developer with expertise in Java, Spring Boot, and RESTful APIs. Successfully delivered collaborative projects while demonstrating strong problem-solving skills. A valuable team player with excellent communication skills. Ready to contribute impactful solutions to backend development. I love exploring new technologies and building web applications that make a positive impact.
 
+---
+
+# 💼 Experience:
+
+### MatreComm Technologies
+**Software Engineer**  
+_June 2024 - October 2024_
+
+- Developed and optimized backend systems using **MongoDB**, **C++**, **Spring Boot**, **Java**, and **MySQL**, adhering to best practices for performance and scalability.
+- Utilized **CMake** and **Maven** for build configuration, enhancing project scalability and efficiency in server-side applications.
+- Contributed to database management and performance tuning, supporting robust data handling and efficient SQL query execution.
+- Collaborated with cross-functional teams to translate requirements into reliable backend solutions, ensuring seamless integration with frontend components.
+
+---
 
 ## 🌐 Socials:
 <p align="left">
@@ -23,13 +37,15 @@ Experienced Java Backend Developer with expertise in Java, Spring Boot, and REST
 <a href="https://www.hackerrank.com/rahulmk19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rahulmk19" height="30" width="40" /></a>
 </p> 
 
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-%23B066FE.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23005C84.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-%23000.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,7 +56,6 @@ Experienced Java Backend Developer with expertise in Java, Spring Boot, and REST
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
 
 # 💻 Projects:
 - You can find my projects <a href="https://rahulmk19.github.io/" target="_blank">here</a>
