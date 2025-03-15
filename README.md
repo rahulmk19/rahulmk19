@@ -23,10 +23,12 @@ Experienced Java Backend Developer with expertise in Java, Spring Boot, and REST
 **Software Engineer**  
 _June 2024 - October 2024_
 
-- Developed and optimized backend systems using **MongoDB**, **C++**, **Spring Boot**, **Java**, and **MySQL**, adhering to best practices for performance and scalability.
-- Utilized **CMake** and **Maven** for build configuration, enhancing project scalability and efficiency in server-side applications.
-- Contributed to database management and performance tuning, supporting robust data handling and efficient SQL query execution.
-- Collaborated with cross-functional teams to translate requirements into reliable backend solutions, ensuring seamless integration with frontend components.
+ ❖ Developed and maintained backend services using Java, Spring Boot, and Hibernate.
+ ❖ Designed RESTful APIs for seamless communication between frontend and backend.
+ ❖ Worked with MySQL and MongoDB, optimizing queries and managing database schemas.
+ ❖ Implemented authentication and authorization using Spring Security and JWT.
+ ❖Managed dependencies and project builds using Maven.
+ ❖ Wrote unit and integration tests using JUnit and Mockito to ensure code quality.
 
 ---
 
