@@ -11,7 +11,7 @@
 
 - 📄 My portfolio website [https://rahulmk19.github.io/](https://rahulmk19.github.io/)
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=670eac777ca4c4119e5c0f73](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=670eac777ca4c4119e5c0f73)
+- 📄 [Know about my experiences](https://drive.google.com/drive/folders/1fq4Z0LEE0wQWK7IHMdOc7D1xyZ7GIvfa?usp=drive_link)
 
 Experienced Java Backend Developer with expertise in Java, Spring Boot, and RESTful APIs. Successfully delivered collaborative projects while demonstrating strong problem-solving skills. A valuable team player with excellent communication skills. Ready to contribute impactful solutions to backend development. I love exploring new technologies and building web applications that make a positive impact.
 
@@ -41,13 +41,11 @@ _June 2024 - October 2024_
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-%23B066FE.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23005C84.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-%23000.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
